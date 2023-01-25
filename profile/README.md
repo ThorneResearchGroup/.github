@@ -107,17 +107,11 @@ Each of the libraries are published as a GitHub package. You can use the library
 
 [Galago](https://github.com/orgs/ThorneResearchGroup/repositories?q=galago&type=all&language=&sort=)
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
+<p align=center>For the praise and glory of His name. All honour and glory are His, now and forever.</p>
 
-
-
-
-
-
-
-
-
-
-
-For the praise and glory of His name. All honour and glory are His, now and forever.
-cUPPr_AilTM
+<p align=center>cUPPr_AilTM</p>
